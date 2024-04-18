@@ -1,5 +1,11 @@
-### Hi there 👋
+## 💖 Welcome to the Gitzone 💖
 
+### I am:
+- **21** y/o
+- Student at **42 Vienna**
+- Currently working on the 42 **Common Core**
+
+I hope you are doing well! ✨
 <!--
 **CottonKiwii/CottonKiwii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
