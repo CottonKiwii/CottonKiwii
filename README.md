@@ -1,4 +1,4 @@
-## 💖 Welcome to the Gitzone 💖
+## 🤍 Welcome to the Gitzone 🤍
 
 ### I am:
 - **21** y/o
