@@ -1,24 +1,16 @@
 ## 🤍 Welcome 🤍
 
-### I am:
-- **21** y/o
+### About Me:
 - Student at **42 Vienna**
 - Currently working on the 42 **Common Core**
+- Using Neovim btw
 
-I hope you are doing well! ✨
+### My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,linux,vim,neovim)](https://skillicons.dev)
-<!--
-**CottonKiwii/CottonKiwii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=c,html,css)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### Currently Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66490832bc68b74d9bc4656a?variant=dark&roadmaps=javascript)](https://roadmap.sh)
