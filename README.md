@@ -6,6 +6,8 @@
 - Currently working on the 42 **Common Core**
 
 I hope you are doing well! ✨
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66490832bc68b74d9bc4656a?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
 <!--
 **CottonKiwii/CottonKiwii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
