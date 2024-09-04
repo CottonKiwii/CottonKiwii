@@ -1,16 +1,20 @@
-## 🤍 Welcome 🤍
+# 🤍 Welcome 🤍
 
-### About Me:
+## About Me:
 - Student at **42 Vienna**
 - Currently working on the 42 **Common Core**
 - Using Neovim btw
 
-### My Skills:
+## My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css)](https://skillicons.dev)
 
-### Currently Learning:
+## Currently Learning:
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66490832bc68b74d9bc4656a?variant=dark&roadmaps=javascript)](https://roadmap.sh)
+
+## Goals:
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66490832bc68b74d9bc4656a?variant=dark&roadmaps=full-stack%2Cjavascript%2Crust)](https://roadmap.sh)
