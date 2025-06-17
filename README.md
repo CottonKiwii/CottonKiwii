@@ -7,7 +7,7 @@
 
 ## My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,c,html,css)](https://skillicons.dev)
 
 ## Currently Learning:
 
