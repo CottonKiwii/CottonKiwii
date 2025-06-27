@@ -2,7 +2,7 @@
 
 ## About Me:
 - Student at **42 Vienna**
-- Currently working on the [42 **Common Core**](https://github.com/CottonKiwii/42_CommonCore)
+- Currently working on the **[42 Common Core](https://github.com/CottonKiwii/42_CommonCore)**
 - Using Neovim btw
 
 ## My Skills:
