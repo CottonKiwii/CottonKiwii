@@ -13,10 +13,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,cpp,py)](https://skillicons.dev)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66490832bc68b74d9bc4656a?variant=dark&roadmaps=javascript)](https://roadmap.sh)
-
 ## Goals:
 
 [![My Skills](https://skillicons.dev/icons?i=julia,ts,cs)](https://skillicons.dev)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/66490832bc68b74d9bc4656a?variant=dark&roadmaps=full-stack%2Cjavascript%2Crust)](https://roadmap.sh)
+
+## Current Stats
+
+<div align="left">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CottonKiwii&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CottonKiwii&theme=tokyonight)
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CottonKiwii&theme=tokyonight)
+
+</div>
