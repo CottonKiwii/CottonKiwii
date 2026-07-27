@@ -3,15 +3,16 @@
 ## About Me:
 - Student at **42 Vienna**
 - Currently working on the **[42 Common Core](https://github.com/CottonKiwii/42_CommonCore)**
+- Student Support at Raiffeisen International
 - Using Neovim btw
 
 ## My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=github,c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,c,cpp,html,css)](https://skillicons.dev)
 
 ## Currently Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 
 ## Goals:
 
